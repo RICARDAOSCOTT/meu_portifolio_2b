@@ -19,3 +19,14 @@ h1, h2, h5 {
 footer {
     color: var(--cor-principal)
 }
+
+footer a:hover {
+    color: var(--cor-destaque)
+}
+
+body.dark-mode {
+    background-color: rgb(18, 18, 18, 0,  853);
+    color: #ffffff;
+}
+
+
